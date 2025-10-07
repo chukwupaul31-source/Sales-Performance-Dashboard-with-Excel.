@@ -23,6 +23,7 @@ I make my workflow relative to this project methodical to ensure accuracy and cl
 
 ## 🗃️**Dashboard Preview**
 Below is a static preview of the Excel dashboard I created.
+<img width="1714" height="630" alt="we thank god for this" src="https://github.com/user-attachments/assets/4b064c0e-a67e-4345-a8fe-8ec77d4e1f9d" />
 
 (https://eu.docworkspace.com/d/sIJqF5pGmAsK-jscG?sa=601.1037) To view the real life dashboard but dont Edit.
 
