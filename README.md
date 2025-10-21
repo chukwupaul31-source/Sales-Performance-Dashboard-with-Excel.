@@ -1,53 +1,129 @@
-  ## 📊Sales-Performance-Dashboard-with-Excel
- 
-This project is a dynamic Sales Performance Dashboard created using Microsoft Excel. I designed and built this dashboard to transform raw sales dataset into actionable business intelligence. 
+# 📊 Brunto-Electronics-Sales-Performance-Dashboard-with-Excel
 
 ## 📌Project Overview
-This project is a dynamic **Sales Performance Dashboard** created using Microsoft Excel.
-My primary aim and objective was to visualize key sales metrics to help stakeholders analyze sales performance, identify trends, and make business informed decisions. The dashboard provides a comprehensive look at sales and profits trends overtime, and breakdown of sales profitability by products and customers.
+
+The Brunto Electronics Sales Performance Dashboard was developed to visualize key sales and profitability metrics, helping stakeholders monitor performance, identify top-selling products, and make data-driven decisions.
+The dashboard provides an at-a-glance summary of total sales, product performance, regional sales trends, and salesperson efficiency — all consolidated into a single professional Excel interface.
+
+
+## ⚠️Problem Statement
+
+Monitoring and understanding sales performance is crucial for any business aiming to maximize revenue and improve efficiency. Brunto Electronics faced challenges in tracking sales data effectively, identifying top-performing products, and measuring salesperson productivity. Manual reporting made it difficult for managers to detect trends, evaluate performance, and make informed business decisions.
+
+The objective of this project is to build a Sales Performance Dashboard that provides real-time insights into sales metrics, profitability, and regional trends to support data-driven decision-making. Specifically, the project seeks to answer:
+
+1.  What are the main factors driving total sales and profitability across products and regions?
+
+2. Which salespersons and regions contribute the most to overall revenue?
+
+3. How do sales and profit trends vary over time?
+
+4. Which products or customers should the company prioritize to increase revenue and improve performance?
 
 
 ## ✨Key Features
--	**Sales Trends Over Time**: I used a chart that visualizes sales and profits trends by order date, allowing for easy identification of seasonal patterns.
--	**Profitability Analysis**: I also used a chart that break down profit by products and sales profit by year, providing clear insights into what drives profitability.
--	**Customer Centric Insights**: I performed an analysis that shows the expected sales and profits by customers, highlighting top tier customers.
--	**Single Page Dashboard**:  I make sure that all the key visualizations are presented on a single dashboard for quick and comprehensive overview.
+
+- Sales Trends Over Time: Interactive charts visualize total sales by order date, enabling quick identification of peak periods and seasonal fluctuations.
+
+- Product Performance: A detailed analysis of sales and profits by items reveals which products drive the highest revenue.
+
+- Salesperson Comparison: Visuals display each salesperson’s total sales, helping management assess individual performance.
+
+- Regional Insights: Regional analysis shows which sales territories generate the most revenue.
+
+- Customer Profitability: Analysis of sales and profit by customer identifies top-tier clients contributing most to revenue.
+
+- Single-Page Dashboard: All visuals are organized on one Excel page for a quick and comprehensive overview.
 
 
-  ## ⚒️**Methodology, Data Structure, and Workflow**
-I make my workflow relative to this project methodical to ensure accuracy and clarity to everyone.
 
-1.	**Data Acquisition and Cleaning**: I begin my journey by importing raw sales data into my Excel sheet. I then performed essential data cleaning steps, including correction data types, handling missing values, and ensuring data consistency .
-2 **Formula Calculations**: I used a range of formulas an functions in Excel to calculate key metrics and prepare the data for visualization.
-3.	**Dashboard Design**: I designed a single professional Excel dashboard by creating charts linked to my data to visually represent the sales trends, profitability by products, and customers insights. I arranged the chart in a logical manner to help in telling a coherent story about the data and my project.
+## ⚙️Methodology, Data Structure & Workflow
 
-## 🗃️**Dashboard Preview**
-Below is a static preview of the Excel dashboard I created.
+To ensure accuracy, clarity, and efficiency, I followed a structured, step-by-step methodology.
+
+1. ### 🧩Data Acquisition and Cleaning
+
+- Imported the raw sales dataset into Microsoft Excel.
+
+- Cleaned data by correcting data types, handling missing values, and ensuring consistency across all fields.
+
+
+2. ### 🧮Formula Calculations
+
+- Used Excel formulas and functions such as SUMIFS, AVERAGEIFS, MAX, MIN, and IF to compute key sales metrics.
+
+- Created helper columns to prepare data for chart visualizations.
+
+
+## 🧱Data Structure
+
+The dataset consists of approximately 1,000 sales transactions with 8 key columns containing detailed sales records, including:
+
+Order Date: Date of each sale.
+
+Item Name: Product sold.
+
+Salesperson Name: Employee responsible for each transaction.
+
+Manager Name: Supervisor overseeing sales staff.
+
+Region: Geographic area of the sale (West, Central, East).
+
+Units Sold: Number of units sold per transaction.
+
+Total Sales: Revenue generated.
+
+Profit: Net profit earned per order.
+
+
+## 🧠Dashboard Design
+
+- Built a clean, professional single-page dashboard using charts such as bar charts, line charts, and pie charts.
+
+- Linked all visuals to dynamic tables for automatic updates when new data is added.
+
+- Arranged visuals logically to tell a clear story of sales performance.
+
+
+
+## 🗃️Dashboard Preview
+
 <img width="1714" height="630" alt="we thank god for this" src="https://github.com/user-attachments/assets/4b064c0e-a67e-4345-a8fe-8ec77d4e1f9d" />
 
-(https://eu.docworkspace.com/d/sIJqF5pGmAsK-jscG?sa=601.1037) To view the real life dashboard but dont Edit.
 
-## 🚀**Skills Demonstrated**:
+## 🚀Skills Demonstrated
 
--	**Excel**: Data cleaning, analysis, and visualization.
--	**Formulas and Functions**: I proficiently used formulas to create and conducted visualization.
--	**Data Visualization**:  I created a professional charts and a dashboard layout.
--	**Data Storytelling**: I presented the data in a clear and compelling way to reveal key insights.
+Excel: Data cleaning, transformation, and analysis.
 
-##  📈**Key Insights**
+Formulas & Functions: Use of complex formulas for KPI calculations.
 
-Based on the dashboard and my analysis, here are some of my key discoveries:
--	**Time Based Trends**: The sales and profit trends by order data shows a clear seasonality, with sales peaking in certain months.
--	**Profits Drivers**: The profits by product analysis reveals which product are the most profitable and which may need to be prioritized.
--	**Customer Profitability**: My analysis on **expected sales and profit by customers** highlight the most valuable customers, allowing for targeted retention strategy.
+Data Visualization: Designing professional charts and layouts in Excel.
 
-##  💡**Recommendations**
-Based on the provided insight on my analysis, I recommend the following actions should be taking:
-1.	**Inventory Management**: I suggest the use of  time based trends to plan inventory , ensuring adequate stock of products before peak seasons.
-2.	**Product Optimization**: I suggest focus on marketing and sales efforts on the most profitable products identified in the analysis.
-3.	**Targeted Customer Relations**: I suggest the develop of a strategy to nurture relationships with the most profitable customers to encourage loyalty and repeat business.
+Dashboard Design: Combining data, visuals, and insights in a single report.
+
+Data Storytelling: Presenting key business insights clearly and persuasively.
 
 
+## 📈Key Insights
 
+- Top Performers: The dashboard identifies the best-performing salespersons based on total revenue.
+
+- Product Profitability: Highlights which items yield the highest average sales and profits.
+
+- Regional Strength: The West Region generated the highest sales, indicating strong market presence.
+
+- Customer Trends: Reveals the most profitable customers and their purchasing patterns.
+
+
+
+## 💡Recommendations
+
+- Reward Top Performers: Recognize and motivate high-performing sales representatives.
+
+- Optimize Product Mix: Focus on high-margin products and adjust pricing on low-performing items.
+
+- Strengthen Underperforming Regions: Study strategies used in top regions and replicate success elsewhere.
+
+- Customer Retention: Build loyalty programs for high-value customers to increase repeat sales.
 
 
