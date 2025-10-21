@@ -52,6 +52,9 @@ I conducted exploratory analysis using Pivot Tables and charts to identify sales
 - Data Visualization and Dashboard Design:
 I created an interactive and visually appealing Excel Dashboard using Pivot Charts, slicers, and conditional formatting. This dashboard provided a comprehensive summary of all sales metrics, making it easy for stakeholders to monitor key KPIs and gain actionable business insights.
 
+## 📑Pivot Tables
+<img width="914" height="314" alt="pivot table" src="https://github.com/user-attachments/assets/14ac792f-b981-4704-b5f1-bb8fe08d380f" />
+
 
 ## 🗂️Data Structure
 
